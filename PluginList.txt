@@ -2,3 +2,4 @@ Ultra_Dynamic_Sky_Configurator
 Invidar_Camera_Transition
 Testfit_TowerSelection
 Testfit_Residential
+RL_AutoRenderNode

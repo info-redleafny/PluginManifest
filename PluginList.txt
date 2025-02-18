@@ -4,3 +4,5 @@ Testfit_TowerSelection
 Testfit_Residential
 RL_AutoRenderNode
 MiscTools
+RL_PluginUpdater
+RL_RenderAutomation
